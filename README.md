@@ -2,14 +2,23 @@
 Yidi ZHAO 1701213162
 
 ## 1. Supply Chain
+
 ### 1.1 Fundamental Concept
+
 Supply chain refers to the functional network structure that connects suppliers, manufacturers, distributors and end users as a whole around the core enterprises, including the manufacturing, purchasing and delivery of supporting parts, intermediate products and final products through the sales network. The goal of supply chain management is to deliver the right products required by customers to the right place at the right time, in the right quantity, the right quality and the right state, and also at the least total cost. 
+
 From the concept of supply chain, it can be known that supply chain is linked to the suppliers, manufacturers, distributors, retailers and customers, and many other complex entities including person and enterprises. For different industries and products, the supply chain can be formed differently, with different degree of complexity, which may span hundreds of stages, and involve multiple geographic locations around the world, with a cycle lasting for months or even more.
+
 In fact, supply chain comes into being along with the emergence of commerce. With the development of commercial trade, the supply chain has undergone great changes, mainly reflected in the following aspects:
+
 a. Production: manual production has been basically replaced. The production of raw materials, spare parts and products has embarked on the road of industrialization with large scale and high efficiency.
+
 b. Transportation: time of manpower transportation has passed. The basic logistics are realized with truck transportation, ship transportation, railway transportation and air transportation.
+
 c. Sales: the emergence of various electronic sales platforms has gradually replaced the traditional face-to-face transactions. More and more products are sold online.
+
 d. Transactions: product transactions have been implemented electronically, matching sales through the Internet. More transactions are no longer conducted in the form of paper money, but in the form of electronic proofs. 
+
 ### 1.2 Basic Elements
 In the whole process of purchasing, producing and selling, the basic elements of the supply chain include logistics, flow of capital and flow of information.
 a. Logistics: the process by which a product or raw material is transferred to a target, from an upstream supplier to a downstream retailer until it reaches the final customers. In the process of physical transfer of goods from the place of suppliers to the place of receivers, transportation, storage, loading and unloading, packaging, processing, distributing, information processing and other necessary procedures are organically combined to meet the requirements of users according to their actual needs.
